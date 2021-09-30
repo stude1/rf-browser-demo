@@ -5,7 +5,7 @@ A short demo for showing how to write testing in business language using Gherkin
 ## Prerequisites
 
 * [Docker](https://docker.com)
-* [Browser library image](https://github.com/MarketSquare/robotframework-browser/blob/main/docker/README.md)
+* [Browser library image](https://github.com/MarketSquare/robotframework-browser/blob/main/docker/README.md) (will be downloaded automatically in the first execution)
 
 ## Usage examples
    ./runimage.sh <robot_options>
