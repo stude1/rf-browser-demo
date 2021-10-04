@@ -1,6 +1,6 @@
 # Robot Framework web testing demo
 
-A short demo for showing how to write testing in business language using Gherkin format
+A short demo for showing how to write testing in business language using Gherkin format. Tests are executed in a container using Browser library.
 
 ## Prerequisites
 
